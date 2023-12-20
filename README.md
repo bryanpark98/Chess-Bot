@@ -1,15 +1,15 @@
-Chess Interface Repository
-Introduction
-Welcome to our Chess Interface Repository! This repository offers a unique interface for playing chess. You can either engage in a two-player game or test your skills against AI models that you can upload and integrate into the game.
+#Chess Interface Repository
+##Introduction
+###Welcome to our Chess Interface Repository! This repository offers a unique interface for playing chess. You can either engage in a two-player game or test your skills against AI models that you can upload and integrate into the game.
 
-Included AI Sample
+###Included AI Sample
 We've included a sample AI player named 'Simon' to get you started.
 
-Installation and Setup
+###Installation and Setup
 Prerequisites
 Ensure you have pip installed on your system. If not, follow the instructions specific to your operating system to install it.
 
-Dependencies
+###Dependencies
 To set up your environment, you'll need to install a few dependencies. Run the following commands in your terminal:
 
 bash
